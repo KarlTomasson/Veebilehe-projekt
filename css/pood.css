@@ -1,0 +1,41 @@
+table {
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+th {
+    padding-left: 20%;
+    padding-right: 60px;
+}
+
+.pood {
+    margin-bottom: 1.5%;
+    background-color: rgb(99, 99, 99);
+}
+
+.pilt {
+    height: 150px;
+    width: 150px;
+}
+
+.button {
+    background-color: rgb(39, 39, 39);
+    border: none;
+    color: rgb(99, 99, 99);
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Solway', serif;
+    cursor: pointer;
+    transition: 0.6s ease;
+}
+
+.button:hover {
+    background-color: rgb(99, 99, 99);
+    color: rgb(39, 39, 39);
+    font-family: 'Solway', serif;
+}
+
+.tekst {
+    font-family: 'Solway', serif;
+    color: rgb(39, 39, 39); 
+}

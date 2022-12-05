@@ -1,0 +1,84 @@
+.action {
+   text-align: center;
+   display: block;
+   margin-top: 20px;
+}
+
+.form-container {
+    background-color: rgb(99, 99, 99);
+    padding: 1%;
+    margin-bottom: 30px;
+}
+
+.container {
+    width: 50%;
+    margin-left: 30%;
+}
+
+.h1 {
+    text-align: center;
+    font-family: 'Solway', serif;
+    color: rgb(39, 39, 39); 
+    margin-right: 20%;
+}
+
+label {
+    display: block;
+    margin-top: 25px;
+    font-size: 1rem;
+}
+
+.tekst {
+    font-family: 'Solway', serif;
+    color: rgb(39, 39, 39); 
+}
+
+.tekst2 {
+    font-family: 'Solway', serif;
+    color: rgb(99, 99, 99); 
+}
+
+input, textarea {
+    width: 80%;
+    padding: 15px;
+    font-size: 1rem;
+    background-color:rgb(39, 39, 39);
+    border: none;
+}
+
+.nupp {
+    border: none;
+    font-family: 'Solway', serif;
+    width: 82.5%;
+    height: 50px;
+    color: rgb(99, 99, 99);
+    background:rgb(39, 39, 39);
+    line-height: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-top: 25px;
+    transition: 0.6s ease;
+}
+
+.nupp:hover {
+    color: rgb(39, 39, 39);
+    background: rgb(99, 99, 99);
+}
+
+.errors {
+    display: block;
+    font-family: 'Solway', serif;
+    color: white;
+    margin-top: 5px;
+}
+
+.error {
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -ms-transition: .2s;
+    -o-transition: .2s;
+    transition: .2s;
+    box-shadow: 0 0 15px 0 white;
+}
+
+/* Viide: https://www.codehim.com/text-input/contact-form-validation-in-javascript/ */
