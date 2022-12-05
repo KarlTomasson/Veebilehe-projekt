@@ -19,7 +19,7 @@ th {
 }
 
 .button {
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(69, 69, 69);
     border: none;
     color: rgb(99, 99, 99);
     text-align: center;
@@ -31,7 +31,7 @@ th {
 
 .button:hover {
     background-color: rgb(99, 99, 99);
-    color: rgb(39, 39, 39);
+    color: rgb(69, 69, 69);
     font-family: 'Solway', serif;
 }
 
